@@ -1,1 +1,2 @@
 Hello, world. Took me long enough to figure this out.
+Testing adding a line myself, staging and committing it
